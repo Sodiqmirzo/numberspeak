@@ -1,1 +1,1 @@
-# flutter_dice
+# flutter_dice application
